@@ -5,7 +5,8 @@
 ## Resources
 
 <ol>
-<ul>Video resources
+<li>Video resources</li>
+<ul>
 <li><a href="https://youtu.be/aIwgPKkVj8s?si=QgZK01kri7MlNFHi">https://youtu.be/aIwgPKkVj8s?si=QgZK01kri7MlNFHi</a>.</li>
 </ul>
 </ol>
