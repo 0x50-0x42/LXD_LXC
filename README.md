@@ -1,4 +1,4 @@
-# About
+# Basic use of the `lxd` and `lxc` commands
 
 * Learning to create Linux containers using LXD.
 
