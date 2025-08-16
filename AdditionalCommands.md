@@ -37,5 +37,17 @@ Example:
 $ lxc restart linuxMint
 ```
 
+To delete a container, we first stop it if it's running using the `lxc stop` command and then use the following command to delete it:
+
+```bash
+$ lxc delete <container name>
+```
+
+Example:
+
+```bash
+$ lxc delete linuxMint
+```
+
 
 ---
